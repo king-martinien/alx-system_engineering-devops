@@ -6,4 +6,5 @@
 - Display the content list of the current directory
 - Change The working directory to the user's home directory
 - Display the current directory content in a long format
-- Display the current directory content, including hidden files, using long format 
+- Display the current directory content, including hidden files, using long format
+- Display the current directory content in long format, with user and group IDS displayed numericaly and hidden files 
