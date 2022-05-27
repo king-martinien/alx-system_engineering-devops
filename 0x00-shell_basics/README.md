@@ -3,4 +3,6 @@
 ## in this folder we will do the followings : <br>
 
 - print the current working directory
-- Display the content list of the current directory 
+- Display the content list of the current directory
+- Change The working directory to the user's home directory
+- Display the current directory content in a long format 
