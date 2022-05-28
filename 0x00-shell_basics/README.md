@@ -9,3 +9,4 @@
 - Display the current directory content, including hidden files, using long format
 - Display the current directory content in long format, with user and group IDS displayed numericaly and hidden files
 - Create a directory named my_first_directory
+- move the file betty from /tmp/ to /tmp/my_first_directory
