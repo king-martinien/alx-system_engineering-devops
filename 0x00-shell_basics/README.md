@@ -14,3 +14,4 @@
 - Delete the directory my_first_directory
 - Change the working directory to the previous one
 - List all files(even hidden) int the current working directory and the parent of the working directory and the /boot directory(in this order) in long format
+- Print the type of the file named iamafile in the directory /tmp
