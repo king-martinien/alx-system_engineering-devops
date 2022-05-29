@@ -21,3 +21,4 @@
 - Create a script that delete all files int the current directory that end with the character ~
 - Create a script that create the directories welcome/, welcome/to/ and welcome/to/school in the current directory
 - Create a script that list all the files and directories separated by comma...
+- Create a magic file
