@@ -17,3 +17,4 @@
 - Print the type of the file named iamafile in the directory /tmp
 - Create a symbolic link to /bin/ls named __ls__
 - Create a script that copy all HTML files from the current directory to the parent of the current directory
+- Create a script that move all files beginning with an uppercase letter to the directory /tmp/u
