@@ -8,3 +8,4 @@
 - Create a script that change the owner of the file hello to the user betty
 - Write a script that create an empty file named hello
 - Write a script that adds execute permission to the owner of the file hello
+- write a script that add execute permission to the owner and the group owner, and read permission to the other users to the file hello
