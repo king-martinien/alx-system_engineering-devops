@@ -15,3 +15,4 @@
 - Write a script that sets the mode of the file hello the same as olleh's mode
 - Write a script that create a directory called my_dir with permission 751 in the working directory
 - Create a script that change the group owner to school for the file hello
+- Create a script that adds execute permission to all subdirectories of the current directory for the ownern group owner and all the other users
