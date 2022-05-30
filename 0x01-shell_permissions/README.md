@@ -14,3 +14,4 @@
 - Write a script that set the mode of the file hello to -rwxr-x-wx
 - Write a script that sets the mode of the file hello the same as olleh's mode
 - Write a script that create a directory called my_dir with permission 751 in the working directory
+- Create a script that change the group owner to school for the file hello
